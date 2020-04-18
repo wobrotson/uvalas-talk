@@ -1,0 +1,179 @@
+Uvalas and their relationship to sinkholes in an evaporite karst setting, Dead Sea eastern shore
+
+Slide 1: opening [0 – 1min]
+
+Hello and thank you for coming. I’m going to present some of the work I did during my research masters at UCD supervised by Dr Eoghan Holohan, which was funded by the GSI’s shortcall scheme and was conducted in collaboration with researchers from the DESERVE project. 
+
+Now, looking at the picture on the slide here, you may be thinking this is the wreckage from a tropical storm that has just passed over. There is a lot of destruction: here we see a road, here the remains of a former factory site. In fact, this damage has been caused by the formation of sinkholes [anim1]. 
+
+[anim2] However, if we cast our eye toward the horizon [anim3] we can also make out a broader, subtler depression with the contact between light and dark brown surface material at its centre. This larger-scale depression is an uvala and the link between sinkholes and uvalas is the focus of my talk. 
+
+Slide 2: What is an uvala? [1min – 2mins30s]
+
+But what exactly are sinkholes and uvalas? They are enclosed depressions occurring in karst environments, which form by dissolution of soluble rocks above and below ground. These terms originate from the ‘classical karst’ of the Balkans, where karst geomorphology began. I will show some approximate examples for each karst depression type from western Ireland’s limestone karst. 
+
+‘Doline’ is the official ‘karst’ word for sinkhole. They are the smallest and most common depression type, are usually circular in shape, and often occur in clusters.
+
+[anim1] The largest depression type is a ‘polje’, which can be thought of as the karst equivalent of fluvial valleys. They are elongate in shape, and regularly flood, as we see here, because their bottom lies close to water table.
+
+[anim2] ‘Uvalas’ generally fall between these landforms in terms of scale and form, and are not so well defined historically. [anim3] A useful morphometric parameter to distinguish dolines and uvalas is their depth-diameter ratio, where they differ by an order of magnitude. 
+
+It has been proposed that these landforms ’grew’ into one another over time (sinkhole became uvala became polje). This is termed the ‘Cyclical Karst Hypothesis’. Following from this, there are three proposed formation mechanisms for uvalas in limestone karst [anim4]: surface dissolution, coalescence of sinkholes and surface subsidence caused by erosion in the subsurface. 
+
+Unfortunately, the slow dissolution kinetics of limestone prevent direct observation of the formation of landscapes such as the Burren, which has formed in the last 10000 years (since the last glacial maximum). However, salt dissolves much more rapidly.
+
+Slide 3: fundamental research questions [2mins30s – 2mins50s]
+
+At the Dead Sea sinkholes and uvalas form on timescales of 1-10 years instead of 1000 - 100000 years: we can directly observe the spatio-temporal development of the karst system.
+
+Our research takes advantage of the rapidity of salt karst development to characterise evaporite karst depressions morphometrically and genetically for the first time.
+
+During this talk, I hope to provide answers to the following questions:
+    • what is the spatio-temporal relationship between sinkhole and uvala formation?
+    • What is the mechanism of uvala formation?
+    • How does the formation of these landforms relate to what is going on underground?
+
+Slide 4: setting the scene, Dead Sea [3mins – 3mins10s]
+
+The Dead Sea is the lowest point on land on the planet. It’s waters are hypersaline (9 times saltier than the oceans). It is situated within a large pull-apart basin located along a large strike-slip fault zone [anim1], the Dead Sea Transform. 
+
+Slide 5: setting the scene, Dead Sea [3mins10s – 4mins]
+
+The Dead Sea is the terminal lake of River Jordan [anim1] and depends on inflow to stop it from drying up. Sea level has fluctuated significantly during recent geological history and is currently declining rapidly – has fallen 37m since the 1960s.
+
+This decline in sea level is driven by anthropogenic activity: substantial diversion of the River Jordan [anim2] to irrigate farmland since 1960s is among the causes of such swift change. We can see the retreat of the shoreline noticeably in the north [anim3] and around the Lisan Peninsula [anim4], a large salt diapir and important regional landmark [anim5].
+
+[anim6] During this period of sea level decline, over 6000 sinkholes have formed on the shores of the Dead Sea across the sites shown. There is an inverse correlation between sinkhole population growth and Dead Sea level decline. Our research focusses on the site of Ghor Al-Haditha [anim7], where this project has mapped over 1150 holes (blue bars), which have formed since 1985.  
+
+Next, we will view the study site in detail [anim8], transferring to an oblique view looking from the southwest.
+
+Slide 6: GAH setting the scene [4mins10s – 4mins30s]
+
+Highlands to the East drain overland via wadis to the lake and deposit [anim1] alluvial fan gravels and sands. As the shoreline has regressed since the 1960s [anim2], the lacustrine mudflat deposits of the former lake bed have been uncovered [anim3]. Both lithologies host depressions.
+[anim4] Here is the mud factory whose remains I showed at the start, which is a key landmark that I will return to throughout this talk, and here is the area for which I will be presenting data.
+
+Slide 7: Data sources [4mins30s – 5mins]
+
+But what kind of data did we use exactly? We employed optical satellite imagery and aerial survey photography spanning a 50-year time period, as seen in the two images, to map the depressions in space and time. The study area has undergone extensive changes, both natural and anthropogenic, during this time, as you can see in these images. 
+
+The spatial and temporal resolution of these data is unique for the Dead Sea and is what has allowed us to record the detailed observations I will present. 
+
+The rapid landscape evolution at the shoreline means accurate 3D data that is up to date is hard to come by. Therefore, we derived digital surface models of very high resolution for 3 consecutive years during field campaigns. 
+
+Now I will present a time series of the evolution of sinkhole and uvala populations for the whole study area.
+
+Slides 8 – 13: spatio-temporal evolution, whole study area [5mins – 6mins15s]
+
+    • Slide 8: sinkholes in south, no uvalas
+    • Slide 9: - [anim 1] New sinkholes in the north.  
+               - Ground cracks bounding U1 and U2. [anim 2] I will discuss these extensive fractures in more detail later on; for now just treat them as the limits of the depressions
+
+    • Slide 10: - [anim 1] New uvala U3,
+                - continued growth of U1 and U2
+                - more sinkholes across the study area and further north
+    • Slide 11: - [anim 1] New uvalas U4 and U5 
+                - [anim 2] U1 area stops developing 
+                - [anim 3] shoreline parallel migration of sinkhole and uvala development (uvalas less clear)
+    • Slide 12: - [anim 1] migration of sinkholes toward shore 
+                - [anim 2] migration of uvalas
+    • Slide 13: - [anim 1] U2 stops developing
+                - continued sinkhole/uvala development in the north to present
+
+Slide 14: spatio-temporal evolution summary [6mins15s – 7mins]
+
+To summarise, sinkhole and uvala development is very much interlinked in both space and time:
+    • Sinkholes form and grow in clusters
+    • Sinkholes precede uvala formation by some years
+    • Formation of new sinkholes has migrated parallel to the shoreline, though the trend for new 	uvalas is less clear
+    • After initiated, sinkhole and uvala growth migrates seaward
+    • Sinkhole and uvala development in an area ceases simultaneously
+
+Now that we’ve established that these landforms are linked, we will examine the mechanism of uvala formation, and potential links to subsurface hydrology [anim 1]. To do this, we will examine the example of U2, which formed around the mud factory site [anim 2], and we will use higher resolution data from photogrammetric surveys to get an improved idea of the processes governing uvala formation. Let’s zoom in…
+
+
+Slide 15: distinguishing sinkholes and uvalas: the U2 example [7mins – 8mins30s]
+
+Here we have a high-resolution orthophoto at the top and topography below, both derived from photogrammetric surveys. Regarding our proposed mechanisms, surface dissolution can be precluded [anim1] : the climate is too dry to produce the volumes of surface runoff required, and the alluvial gravels are not soluble, though the mud is partially.
+
+As for coalescence of sinkholes, we have observations that discount this too. If we zoom in [anim2] we can see a cluster of sinkholes here and two overlapping sinkholes, a compound sinkhole [anim3]. There are small fractures which bound individual holes [anim4], but there are also the much more extensive ground cracks I mentioned earlier [anim5]. These cracks do not trend concentrically to a given sinkhole and delimit subsidence on a much larger scale. 
+
+[anim6] Zooming in, we see the true nature of these extensive fractures. The fractures are expressed differently in different materials but can be normal faults with substantial vertical displacements. [anim7] 
+
+The growth of the fractures over time as shown overlaid on the topography bounds the evolution of subsidence which forms the uvala.
+
+Two areas of subsidence have come together to form one uvala over 12 years. Thus, uvala formation is not linked to the coalescense of individual sinkholes [anim8], but instead is described by a wider area of surface subsidence bounded by non-concentric ground cracks.
+
+Slide 16: similar observations for U4 [8mins30s – 8mins50s]
+
+A further example of subsidence migrating in a particular direction with time can be seen at U4.
+
+But how does such surface subsidence relate to what is happening underground? [anim1] Well, we can observe that both uvalas have major groundwater springs at their seaward, downslope sides. 
+
+[anim2] We will continue to focus on the area around the mud factory to investigate the impact of subsurface flow on uvala and sinkhole formation by using geomorphological mapping of stream channels.
+
+Slides 17 - 20: Factory area subsurface hydrology [8mins50s – 9mins50s]
+
+15 seconds for each time interval!
+
+Slide 17: 2000
+    • Aerial imagery on left, sketch on right
+    • [anim1] Surface streams emerge from springs in the vegetated area close to the contact between the alluvium and the mudflats
+    • No uvalas yet present
+
+Slide 18: 2006
+    • Growth of sinkhole population in 2 distinct areas of wider subsidence
+    • [anim1] Continued shoreward erosion of stream channels
+
+Slide 19: 2012
+    • 2 areas of subsidence have converged to form one large, elongate uvala
+    • [anim1] Large lake has formed at the surface within the uvala itself
+    • [anim2] New stream is forming close to the apex of sinkhole convergence
+    • Only part of stream is visible on surface – deduce subsurface flow
+
+Slide 20: 2017
+    • Lake has drained and the central channel has become an absolute whopper
+    • Adjacent channels have stopped growing
+    • Conclude that the subsurface conduit system has matured enough to allow greater underground flow with new dominant outflow point
+
+[anim1] The convergence of the two areas of subsidence on the site of the dominant spring clearly indicates focussed erosion in subsurface conduits controls sinkhole and uvala formation. 
+
+Slide 21: bringing it all together [9mins50s – 10mins50s]
+
+Describe the diagram at the surface (observations) then [anim2] introduce subsurface interpretation
+    • Sinkholes = localised material removal and point subsidence
+    • Uvalas = areally distributed surface subsidence due to material removal across subsurface volume with enhanced dissolution and mechanical erosion
+    • Same overall formation process for both
+    • Different morphological expression depending on scale of process
+
+[anim2] How does this compare to observations in limestone karst?
+
+
+Slides 22 - 23: potential scaling laws [10mins50s – 11mins35s]
+
+    • As pointed out earlier, sinkholes and uvalas have different De/Di characteristics in classical limestone karst. 
+    • What about evaporite karst? Same relationship holds up
+    • Sinkholes and uvalas formed in limestone are up to an order of magnitude wider and deeper than those in evaporite karst
+    • Do depressions formed in different karst environments follow a universal scaling law?
+    • Are there two different power law relationships? Need more data!
+    • Future work will investigate the scaling of karst depression morphometry
+
+Slide 24: summary and conclusions [11mins35s – 12mins10s]
+
+In conclusion: 
+
+Sinkholes and uvalas develop in tandem at Ghor Al-Haditha, but are distinct landforms. This is the first time that synchronous sinkhole and uvala evolution has been mapped in space and time! 
+
+Uvalas form by surface subsidence. This is the first time that uvala formation mechanisms have been examined on real data in real time!
+
+Sinkhole and uvala development is tied to physical and chemical erosion by groundwater in the subsurface. 
+
+Sinkholes represent discrete point collapses into individual conduits.
+
+Uvalas represent distributed subsidence across a subsurface volume caused by a conduit network.
+
+Slide 26: Thank you all very much for listening!
+The research presented here was published last year in Solid Earth.
+
+
+
+
